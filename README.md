@@ -9,7 +9,7 @@ The following documents are available:
 | | Latest Release | Working Draft |
 | - | - | - |
 | **Core Specification:** | | |
-| Open Spaces API | [0.1-wip](https://github.com/pnnl/buildingid-api-docs/blob/master/api-docs/open-space.yaml) | [master](https://github.com/pnnl/buildingid-api-docs/blob/master/api-docs/open-space.yaml) |
+| Open Spaces API | [0.1-wip](https://github.com/pnnl/buildingid-api-docs/blob/master/api-docs/open-spaces.yaml) | [master](https://github.com/pnnl/buildingid-api-docs/blob/master/api-docs/open-spaces.yaml) |
 
 ## License
 
